@@ -1,5 +1,7 @@
 # docker compose - Zabbix NGINX PostgreSQL + Grafana
 
+![COMPANY](https://ksginfrasolutions.com/static/media/logo-white.0e7b8ad8.png)
+
 - [Official Zabbix Dockerfiles](https://github.com/zabbix/zabbix-docker)
 - [Zabbix plugin for Grafana dashboard](https://github.com/grafana/grafana-zabbix)
 
@@ -19,7 +21,7 @@ Example simple docker-compose service
 
 1) Clone repo:
 ```
-git clone https://github.com/akmalovaa/zabbix-docker.git
+git clone https://github.com/ksginfrasolutions/zabbix-docker.git
 cd zabbix-docker
 ```
 
