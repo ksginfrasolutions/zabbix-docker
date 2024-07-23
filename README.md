@@ -60,4 +60,4 @@ docker-compose logs --tail=1 -f
 ```
 
 
-[ORIGINAL AUTHOR[GithubRepo](https://github.com/akmalovaa/zabbix-docker.git)]
+[ORIGINAL AUTHOR [REPO](https://github.com/akmalovaa/zabbix-docker.git)]
