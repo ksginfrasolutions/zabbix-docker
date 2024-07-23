@@ -1,4 +1,4 @@
-# docker compose - Zabbix NGINX PostgreSQL + Grafana
+# Zabbix NGINX PostgreSQL + Grafana - KSG
 
 
 Forked FROM [GithubRepo](https://github.com/akmalovaa/zabbix-docker.git) 
