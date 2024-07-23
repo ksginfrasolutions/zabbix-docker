@@ -1,7 +1,7 @@
 # Zabbix NGINX PostgreSQL + Grafana - KSG
 
 
-Forked FROM [GithubRepo](https://github.com/akmalovaa/zabbix-docker.git) 
+
 
 ![COMPANY](https://ksginfrasolutions.com/static/media/logo-white.0e7b8ad8.png)
 
@@ -58,3 +58,6 @@ Test data source
 ```
 docker-compose logs --tail=1 -f
 ```
+
+
+[ORIGINAL AUTHOR[GithubRepo](https://github.com/akmalovaa/zabbix-docker.git)]
